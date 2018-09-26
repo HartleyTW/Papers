@@ -5,8 +5,7 @@
 Paluri
 
 
-## Link <http://openaccess.thecvf.com/content_cvpr_2018/papers/Tran_A_Closer_Loo
-k_CVPR_2018_paper.pdf>
+## Link <http://openaccess.thecvf.com/content_cvpr_2018/papers/Tran_A_Closer_Look_CVPR_2018_paper.pdf>
 
 
 ## Published CVPR 18
